@@ -1,7 +1,23 @@
-- 👋 Hi, I’m @Muneeb-Ahmad-Ch
-- 😊 I’m interested in Programming
-- 🌱 I’m currently learning Programming
-- 👀 I’m looking to collaborate on Programming 
+## Hi there, I'm Muneeb Ahmad! 👋
+
+I am a 💻 Computer Scientist with a passion for learning and building new things. I enjoy working on a wide range of technologies, including cross-platform development 📱, web automation 🤖, and data science 📊.
+
+This is my Github profile where you can find some of my personal projects, as well as contributions to open source projects. Feel free to explore my repositories and provide feedback or suggestions.
+
+## Skills
+
+👨‍💻 Programming languages: Python, JavaScript, Flutter/Dart, C++
+
+🌐 Web development: HTML, CSS, JavaScript, React
+
+📈 Data science: Pandas, Numpy, Matplotlib
+
+🤖 Web Automation: Selenium
+
+## Contact
+
+If you want to get in touch, feel free to send me an email at muneeb.ahmad.akram@gmail.com. I am open to collaboration, learning opportunities, and any feedback or suggestions you may have.
+
 
 <!---
 Muneeb-Ahmad-Ch/Muneeb-Ahmad-Ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

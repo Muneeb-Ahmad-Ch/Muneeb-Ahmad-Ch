@@ -6,7 +6,7 @@
 👨‍💻 Programming languages: Python, JavaScript, Flutter/Dart, C++<br><br>🌐 Web development: HTML, CSS, JavaScript, React<br><br>📈 Data science: Pandas, Numpy, Matplotlib<br><br>🤖 Web Automation: Selenium<br><br>🎨 Graphical User Interface: Flet, Tkinter<br><br>
 ## Contact
 <br>
-If you want to get in touch, feel free to send me an email at muneeb.ahmad.freelancing@gmail.com. I am open to collaboration, learning opportunities, and any feedback or suggestions you may have.<br>If you want my services you can also visit my freelancing platforms. Here are Links:<br>Fiverr: https://www.fiverr.com/muneeb_ahmad_ch<br><br><br>
+If you want to get in touch, feel free to send me an email at muneeb.ahmad.freelancing@gmail.com. I am open to collaboration, learning opportunities, and any feedback or suggestions you may have.<br>If you want my services you can also visit my freelancing platforms. Here are Links:<br>Fiverr: https://www.fiverr.com/muneeb_ahmad_ch<br>Website: https://www.mpysolutions.com/<br><br>
 
 
 ## 🌐 Socials:
